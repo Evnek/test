@@ -1,0 +1,16 @@
+Jinja2
+MarkupSafe
+PyJWT
+Werkzeug
+certifi
+charset-normalizer
+click
+flask
+idna
+importlib-metadata
+itsdangerous
+pytz
+requests
+twilio
+urllib3
+zipp
